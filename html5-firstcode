@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <title> Curso de HTML5 </title>
+    <style>
+        h1 {
+            font-family: Arial;
+            font-size: 30pt;
+            color: blue;
+            text-shadow: 10px 10px 2px black;
+        }
+        h2 {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 15pt;
+            color: aquamarine;
+            text-shadow: 2px 2px 0px black;
+        }                                                                                                                                                                                                             
+        h3 {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 13pt;
+            color: black;
+            text-shadow: 1px 1px 1px gray;
+        }                            
+    </style>
+</head>
+<body>
+    <h1> Olá, Mundo! </h1>                                                                                                                                                                                                                                                                                                                                                                
+    <h2> Me Livrando da Maldição </h2>
+    <h3> Até os mais porfissionais programadores tem medo dessa história... 
+    Pois reza a lenda, que se um programador iniciante como eu, 
+    não mandar uma maquina ou código dizer "Olá, Mundo!", 
+    esse nunca vai ser um programador de verdade. 
+    Eu o fiz, mas não qual será meu futuro.</h3>
+</body>
+</html>
